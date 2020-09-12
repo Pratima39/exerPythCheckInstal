@@ -43,7 +43,7 @@
 |   Command   |         Result          |
 |     ---     |           ---           |
 |`python --version` in Anaconda Prompt         |(Python 3.7.4)|
-|`python --version` in regular Command Prompt  |(N/A)|
+|`python --version` in regular Command Prompt  |(N/A)| ## Third Commit
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
 * It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt. Or you need to add the path to Python to your path variable.
